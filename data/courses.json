@@ -5,7 +5,9 @@
     "price": 100,
     "description":"In this module, you will learn about applications of Machine Learning in different fields such as health care, banking, telecommunication, and so on. You’ll get a general overview of Machine Learning topics such as supervised vs unsupervised learning, and the usage of each algorithm. Also, you understand the advantage of using Python libraries for implementing Machine Learning models.",
     "image":"https://images.unsplash.com/photo-1591453089816-0fbb971b454c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8NXxRUXVpbXVnRkhaY3x8ZW58MHx8fHw%3D&auto=format&fit=crop&w=500&q=60",
-    "feature": ["Every on free", "Extra Feature", "Hudai Feature"]
+    "feature": ["Every on free", "Extra Feature", "Hudai Feature"],
+    "Time":"4 videos",
+    "duration":"2 hour"
   },
   {
     "id": 2,
@@ -13,7 +15,9 @@
     "price": 150,
     "description":"In this module, you will get a brief intro to regression. You learn about Linear, Non-linear, Simple and Multiple regression, and their applications. You apply all these methods on two different datasets, in the lab part. Also, you learn how to evaluate your regression model, and calculate its accuracy.",
     "image":"https://images.unsplash.com/photo-1580894742597-87bc8789db3d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8OXwyRnN1U3ZEM2wxc3x8ZW58MHx8fHw%3D&auto=format&fit=crop&w=500&q=60",
-    "feature": ["Every on free", "Extra Feature", "Hudai Feature"]
+    "feature": ["Every on free", "Extra Feature", "Hudai Feature"],
+    "Time":"6 videos",
+    "duration":"2.5 hour"
   },
   {
     "id": 3,
@@ -21,7 +25,9 @@
     "price": 88.55,
     "description":"In this module, you will learn about classification technique. You practice with different classification algorithms, such as KNN, Decision Trees, Logistic Regression and SVM. Also, you learn about pros and cons of each method, and different classification accuracy metrics.",
     "image":"https://images.unsplash.com/photo-1511376777868-611b54f68947?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8bWFjaGluZSUyMGxlYXJuaW5nfGVufDB8MHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
-    "feature": ["Every on free", "Extra Feature", "Hudai Feature"]
+    "feature": ["Every on free", "Extra Feature", "Hudai Feature"],
+    "Time":"6 videos",
+    "duration":"2.5 hour"
   },
   {
     "id": 4,
@@ -29,7 +35,9 @@
     "price": 120,
     "description":"In this module,Know what is meant by binary linear classification.Understand why an explicit threshold for a classifier is redundant.Understand how we can get rid of the bias term by adding a “dummy”feature.Be able to specify weights and biases by hand to represent simplefunctions (e.g. AND, OR, NOT). Be familiar with input space and weight space.",
     "image":"https://images.unsplash.com/photo-1569396116180-210c182bedb8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mzh8fG1hY2hpbmUlMjBsZWFybmluZ3xlbnwwfDB8MHx8&auto=format&fit=crop&w=500&q=60",
-    "feature": ["Every on free", "Extra Feature", "Hudai Feature"]
+    "feature": ["Every on free", "Extra Feature", "Hudai Feature"],
+    "Time":"8 videos",
+    "duration":"3 hour"
   },
   {
     "id": 5,
@@ -37,7 +45,9 @@
     "price": 100,
     "description":"In this module, you will learn about clustering specifically k-means clustering. You learn how the k-means clustering algorithm works and how to use k-means clustering for customer segmentation.",
     "image":"https://images.unsplash.com/photo-1535378620166-273708d44e4c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NTJ8fG1hY2hpbmUlMjBsZWFybmluZ3xlbnwwfDB8MHx8&auto=format&fit=crop&w=500&q=60",
-    "feature": ["Every on free", "Extra Feature", "Hudai Feature"]
+    "feature": ["Every on free", "Extra Feature", "Hudai Feature"],
+    "Time":"8 videos",
+    "duration":"3 hour"
   },
   {
     "id": 6,
@@ -45,6 +55,8 @@
     "price": 150,
     "description":"In this module,you will learn about Sequiential Model,Model Output,Model Configuration,Model Excution",
     "image":"https://images.unsplash.com/photo-1655720855348-a5eeeddd1bc4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NTd8fGRlZXAlMjBsZWFybmluZ3xlbnwwfDB8MHx8&auto=format&fit=crop&w=500&q=60",
-    "feature": ["Every on free", "Extra Feature", "Hudai Feature"]
+    "feature": ["Every on free", "Extra Feature", "Hudai Feature"],
+    "Time":"10 videos",
+    "duration":"4 hour"
   }
 ]
